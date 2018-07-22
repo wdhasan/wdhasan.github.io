@@ -1,0 +1,104 @@
+#hader{
+	font-weight:bold;
+	font-family:sonkhaMJ;
+	color:#fff;
+	background:blue;
+	font-size:30;
+	display:block;
+	line-height:25px;
+	height:400px;
+	padding-top:50;
+	
+}
+.main{display:block;
+	width:850;
+	height:1400;
+	background:green;
+	margin:0 auto;
+	padding-top:50;
+	
+}
+.div1{
+	font-size:15;
+	font-weight:bold;
+	background:#13E230;
+	height:200;
+	width:200;
+	color:#fff;
+	margin:auto;
+	font-size:20;
+	margin-top:100;
+	padding-left:50;
+
+}
+.div2{
+	font-size:15;
+	font-weight:bold;
+	background:#13E230;
+	height:200px;
+	width:200px;
+	color:#fff;
+	margin:auto;
+	margin-top:120;
+	font-size:20;
+	padding-left:50;
+}
+.div3{
+	font-size:15;
+	font-weight:bold;
+	background:#13E230;
+	height:200;
+	width:200;
+	color:#fff;
+	margin:auto;
+	margin-top:120;
+	font-size:20;
+	padding-left:50;
+	}
+.div4{
+	font-size:15;
+	font-weight:bold;
+	background:#13E230;
+	height:200px;
+	width:200px;
+	color:#fff;
+	margin:auto;
+	margin-top:120;
+	font-size:20;
+	padding-left:50;
+}
+p{
+	margin:auto;
+	padding:50;
+}
+	
+
+.footer{
+	height:200;
+	width:100%;
+	background-color:#3FECFF;
+	margin-top:0px;
+	padding:100;
+	overflow:hidden;
+	font-size:20px;
+}
+.footer p{
+	margin:normal;
+	padding:0;
+}
+.div1:hover{
+background-color:blue;
+}
+.div2:hover{
+background-color:blue;
+}
+.div3:hover{
+background-color:blue;
+}
+.div4:hover{
+background-color:blue;
+}
+img{
+	margin:auto;
+}
+
